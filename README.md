@@ -1,6 +1,6 @@
 # GP-Population-LSOA-Ingestion
 
-Python code desigend to be run in ArcGIS OnLine Notebook
+Python code designed to be run in ArcGIS OnLine Notebook
 
 This allows users to import GP Population Data at LSOA level (Open Source Data) has been updated since the previous run.
 
